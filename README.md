@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on creating accessible, vibrant, and exciting web projects with the latest technologies!
-- 🌱 I’m currently trying to delve deeper into type manipulation / safety using Typescript. As well as looking into Svelte and Remix!
+- 🌱 I’m currently learning React Native and diving deeper into mobile app development!
 - 🤔 I’m looking for help with anything that you are knowledgable in! I'm always looking to learn from others!
 - 💬 Ask me about anything Typescript / React / Next.js related! I am very passionate about modern web development and could talk about it for hours!
 - 📫 How to reach me: kalamakiefer@gmail.com
