@@ -21,7 +21,7 @@ I like work that compounds, refactors that make every future feature easier to s
 
 - 🛠 Currently building a mobile word game with React Native + Expo
 - ⚡ Recently led a full JS → TypeScript migration that cut bundle size **30%** and improved load speed **45%**
-- 🎨 Grew up between with an interior designer mother and a software engineer father, I think in aesthetics *and* architecture
+- 🎨 Grew up with an interior designer mother and a software engineer father, I think in aesthetics *and* architecture
 - 🤖 AI-native workflow: Claude Code daily, MCP servers, custom skills, sub agents, automated workflows
 
 ---
