@@ -87,14 +87,6 @@ I like work that compounds, refactors that make every future feature easier to s
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
----
-
-### GitHub
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KalamaKiefer&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalamaKiefer&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
-</p>
 
 ---
 
